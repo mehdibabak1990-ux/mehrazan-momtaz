@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/3q1nhvtf5-dyz.css","style"]
+:HL["/_next/static/media/Vazirmatn_VF-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/master-suite-oak/271-l.webp","image",{"imageSrcSet":"/portfolio/master-suite-oak/271-s.webp 720w, /portfolio/master-suite-oak/271-l.webp 1360w","imageSizes":"100vw","fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"master-suite-oak","s":["goja"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"portfolio","h":131136,"c":"$Q2"}]]
+0:{"b":"fialBdmpbsLhhiK2c59v3","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

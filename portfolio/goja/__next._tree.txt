@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/3q1nhvtf5-dyz.css","style"]
+:HL["/_next/static/media/Vazirmatn_VF-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/pasdaran/pasdaran-01.webp","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"goja","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"portfolio","h":64,"c":"$Q2"}]]
+0:{"b":"fialBdmpbsLhhiK2c59v3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
