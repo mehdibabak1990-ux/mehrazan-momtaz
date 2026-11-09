@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/3q1nhvtf5-dyz.css","style"]
-:HL["/_next/static/media/Vazirmatn_VF-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/portfolio/glass-wardrobe-bedroom/428-l.webp","image",{"imageSrcSet":"/portfolio/glass-wardrobe-bedroom/428-s.webp 720w, /portfolio/glass-wardrobe-bedroom/428-l.webp 1400w","imageSizes":"100vw","fetchPriority":"high"}]
+:HL["/mehrazan-momtaz/_next/static/chunks/3q1nhvtf5-dyz.css","style"]
+:HL["/mehrazan-momtaz/_next/static/media/Vazirmatn_VF-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mehrazan-momtaz/portfolio/glass-wardrobe-bedroom/428-l.webp","image",{"imageSrcSet":"/mehrazan-momtaz/portfolio/glass-wardrobe-bedroom/428-s.webp 720w, /mehrazan-momtaz/portfolio/glass-wardrobe-bedroom/428-l.webp 1400w","imageSizes":"100vw","fetchPriority":"high"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"glass-wardrobe-bedroom","s":["goja"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"portfolio","h":131136,"c":"$Q2"}]]
-0:{"b":"fialBdmpbsLhhiK2c59v3","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"5N5xpYM-zBR8JTwxwGZme","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
